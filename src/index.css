@@ -9,15 +9,6 @@
   color: #F1F1F1;
 }
 
-/* navbar */
-.navbar h1 {
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 56px;
-
-  color: #D2E4C4;
-}
-
 /* home */
 .home h1 {
   text-align: center;
@@ -33,4 +24,11 @@
   font-weight: 400;
   font-size: 20px;
   line-height: 28px;
+}
+
+.home a {
+  margin: 0px;
+
+  text-decoration: none;
+  color: #D2E4C4;
 }
